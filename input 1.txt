@@ -1,0 +1,4 @@
+Build and execute a Node.js and SQLite inventory tracking pipeline 
+that initializes a product database, processes stock levels against 
+minimum reorder thresholds, identifies low-stock items, and generates 
+a structured technical inventory audit report.
